@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /help.html
+Disallow: /create%20invoices/
+Disallow: /design%20your%20invoice/
+Disallow: /include%20links%20to%20invoices/
+Disallow: /manage%20customers/
+Disallow: /packing%20slip/
+Disallow: /payments/
+Disallow: /pricing/
+Disallow: /print/
+Disallow: /send%20invoices/

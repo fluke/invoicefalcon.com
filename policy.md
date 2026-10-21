@@ -29,6 +29,11 @@ These third parties have access to your Personal Information only to perform the
 ### Security
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
+### Data Retention
+We keep your store's data for as long as Invoice Falcon is installed on your store. When you uninstall the app, we delete your store's data within 48 hours, as Shopify requires.
+
+If your Shopify store has been paused, frozen or closed for more than 6 months, we treat it as uninstalled and delete your store's data, including invoices, customer details and settings. If you reopen your store after that, Invoice Falcon will set up again from scratch.
+
 ### Links To Other Sites
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.

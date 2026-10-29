@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/pricing-and-plans/
 layout: post
 title:  "How does the Pay-as-you-go plan work?"
 category: [Pricing]
@@ -19,4 +20,4 @@ To see your limit reset date, please click on the 'Pricing & Plans' tab in the t
 <br/>
 <hr/>
 <br/>
-At Invoice Falcon, we are dedicated to helping you succeed with your business. If you are not sure about the usage fee charged to your store or if you feel that you have been charged incorrectly, please let us know via the Customer Support widget within Invoice Falcon or via email at invoicefalcon.shopify@gmail.com. Rest assured that if there is any issue on our part, we'll make sure to issue a refund at the earliest.
+At Invoice Falcon, we are dedicated to helping you succeed with your business. If you are not sure about the usage fee charged to your store or if you feel that you have been charged incorrectly, please let us know via the Customer Support widget within Invoice Falcon or via email at invoice.falcon@artossoftware.com. Rest assured that if there is any issue on our part, we'll make sure to issue a refund at the earliest.

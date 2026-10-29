@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/add-a-pay-now-link/
 layout: post
 title:  "Collect payments for unpaid invoices with Stripe"
 category: [Payments]

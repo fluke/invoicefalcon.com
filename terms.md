@@ -35,6 +35,6 @@ We reserve the right to modify this Agreement or its policies relating to Invoic
 You acknowledge that you have read this Agreement and agree to all its terms and conditions. By using Invoice Falcon you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access Invoice Falcon
 
 ### Contacting us
-If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to invoicefalcon.shopify@gmail.com
+If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to invoice.falcon@artossoftware.com
 
 This document was last updated on October 29, 2019

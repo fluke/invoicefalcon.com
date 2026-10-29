@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/change-labels-and-date-format/
 layout: post
 title:  "Change text or labels in your invoice"
 category: [Design your invoice]

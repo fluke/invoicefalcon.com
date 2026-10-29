@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-tax-details/
 layout: post
 title:  "Add your customer's tax/VAT number to the invoice"
 category: [Manage Customers]

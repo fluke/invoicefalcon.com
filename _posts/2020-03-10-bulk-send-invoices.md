@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/bulk-email-invoices/
 layout: post
 title:  "Bulk send invoices for Shopify orders to your customers"
 category: [Send Invoices]

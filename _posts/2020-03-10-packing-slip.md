@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/print-packing-slips/
 layout: post
 title:  "Set up packing slips for your Shopify orders"
 category: [Packing Slip]

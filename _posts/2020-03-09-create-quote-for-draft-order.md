@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/send-quotes-for-draft-orders/
 layout: post
 title:  "Create a Quote for your Shopify Draft Order"
 category: [Create invoices]

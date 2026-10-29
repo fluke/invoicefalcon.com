@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/pricing-and-plans/
 layout: post
 title:  "Remove Invoice Falcon watermark from your invoice & emails"
 category: [Design your invoice]

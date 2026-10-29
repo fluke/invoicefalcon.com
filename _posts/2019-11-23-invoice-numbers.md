@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/set-invoice-numbers/
 layout: post
 title:  "Set a numbering sequence for your invoices"
 category: [Design your invoice]
@@ -38,4 +39,4 @@ Example - If your order number is **#1080** and the invoice number prefix is **I
 <br/>
 <hr/>
 <br/>
-Invoice numbers for any invoices created before changing the numbering sequence settings here <i>will not be updated automatically</i>. If you'd like to change or reset the numbers for previous invoices, please contact us via customer support widget inside Invoice Falcon or email us at invoicefalcon.shopify@gmail.com.
+Invoice numbers for any invoices created before changing the numbering sequence settings here <i>will not be updated automatically</i>. If you'd like to change or reset the numbers for previous invoices, please contact us via customer support widget inside Invoice Falcon or email us at invoice.falcon@artossoftware.com.

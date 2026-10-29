@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-order-details/
 layout: post
 title:  "Set a default due date for all unpaid invoices"
 category: [Design your invoice]

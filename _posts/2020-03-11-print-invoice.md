@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/print-or-download-an-invoice/
 layout: post
 title:  "Print or download the Invoice for a Shopify Order"
 category: [Print/Download Invoices]

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/add-your-business-details/
 layout: post
 title:  "Change or remove your store's address in the invoice"
 category: [Design your invoice]

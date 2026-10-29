@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/edit-an-invoice/
 layout: post
 title:  "Edit an invoice to update its details"
 category: [Create invoices]

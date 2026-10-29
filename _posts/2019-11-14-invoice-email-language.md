@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/invoices-in-your-customers-language/
 layout: post
 title:  "Set the language for your invoices & emails"
 category: [Design your invoice]
@@ -44,6 +45,6 @@ Once you've selected your preferred settings, make sure to click the **Save Chan
 ### My language isn't listed. What do I do?
 Don't worry! You have a couple of options here -
 
-(1) Contact us 24*7 via live chat or email at invoicefalcon.shopify@gmail.com, and we'll add it for you. :)
+(1) Contact us 24*7 via live chat or email at invoice.falcon@artossoftware.com, and we'll add it for you. :)
 
 (2) You can also set up your own language for the invoice without contacting us. Head back to the __Invoice Settings__ page, and find the section named __Edit Titles & Labels__. In this section, you can add your own translation for each header, title & label in the invoice.

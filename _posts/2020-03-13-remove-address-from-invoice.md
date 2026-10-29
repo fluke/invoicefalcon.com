@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-payment-and-shipping-information/
 layout: post
 title:  "Remove shipping & billing addresses from your invoice"
 category: [Design your invoice]

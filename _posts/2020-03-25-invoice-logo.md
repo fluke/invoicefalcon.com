@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/add-your-logo-and-branding/
 layout: post
 title:  "Add your logo to the invoice"
 category: [Design your invoice]

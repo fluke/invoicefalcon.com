@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/print-or-download-an-invoice/
 layout: post
 title:  "Print multiple copies of your invoices"
 category: [Design your invoice]

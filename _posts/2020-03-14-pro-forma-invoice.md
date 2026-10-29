@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/
 layout: post
 title:  "Create Pro forma invoices on your Shopify store"
 category: [Create invoices]

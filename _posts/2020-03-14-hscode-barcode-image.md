@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-product-details/
 layout: post
 title:  "Show HS code, barcode and image for products in your invoice"
 category: [Design your invoice]

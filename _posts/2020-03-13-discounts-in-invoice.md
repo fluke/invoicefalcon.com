@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-totals-discounts-and-shipping/
 layout: post
 title:  "Show original price & order discounts in your Shopify invoices"
 category: [Design your invoice]

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/bulk-print-and-download/
 layout: post
 title:  "Bulk print invoices for your Shopify orders"
 category: [Print/Download Invoices]

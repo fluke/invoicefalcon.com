@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/change-the-sender-address/
 layout: post
 title:  "Update your reply-to address & email template"
 category: [Send Invoices]

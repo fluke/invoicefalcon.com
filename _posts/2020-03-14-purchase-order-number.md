@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-order-details/
 layout: post
 title:  "Add a purchase order number to your invoices"
 category: [Design your invoice]

@@ -1,6 +1,6 @@
 title: Invoice Falcon
 author: NexaSky DMCC
-email: invoicefalcon.shopify@gmail.com
+email: invoice.falcon@artossoftware.com
 description: >
   Beautiful, professional invoices. Sent automatically.
 baseurl: ''
@@ -28,3 +28,4 @@ defaults:
 theme: minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from

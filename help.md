@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/
 title: Help Center
 url: '/help'
 ---

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/customize-a-template/
 layout: post
 title:  "Change the order of addresses in your invoice"
 category: [Design your invoice]

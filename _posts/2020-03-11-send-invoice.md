@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/email-an-invoice/
 layout: post
 title:  "Send the Invoice for a Shopify Order to your customer"
 category: [Send Invoices]

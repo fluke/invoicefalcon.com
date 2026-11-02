@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/invoice-link-in-order-confirmation-email/
 layout: post
 title:  "Add a link to the invoice in Order Confirmation Email"
 category: [Include links to invoices]

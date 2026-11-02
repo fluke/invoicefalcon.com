@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/customer-account-download-button/
 layout: post
 title:  "Add links to invoices in Customer account page"
 category: [Include links to invoices]

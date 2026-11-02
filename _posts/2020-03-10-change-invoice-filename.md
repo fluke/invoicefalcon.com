@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/print-or-download-an-invoice/
 layout: post
 title:  "Change the attachment/download filename for your invoices"
 category: [Send Invoices]

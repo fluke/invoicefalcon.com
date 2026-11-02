@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/create-credit-notes/
 layout: post
 title:  "Create Credit notes for refunded/cancelled orders"
 category: [Create invoices]

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/send-invoices-automatically/
 layout: post
 title:  "Automatically send invoices to your customers"
 category: [Send Invoices]

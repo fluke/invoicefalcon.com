@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/send-email-copies/
 layout: post
 title:  "Get a PDF invoice for every order in your store automatically"
 category: [Send Invoices]

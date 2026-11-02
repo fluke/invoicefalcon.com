@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/add-notes-footer-and-social-links/
 layout: post
 title:  "Add notes or bank/payment information to all invoices"
 category: [Design your invoice]

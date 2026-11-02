@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-tax-details/
 layout: post
 title:  "Add your tax/business registration number to your invoice"
 category: [Design your invoice]

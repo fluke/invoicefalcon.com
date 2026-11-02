@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/show-payment-and-shipping-information/
 layout: post
 title:  "Change the address format in your invoice"
 category: [Design your invoice]

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/send-payment-reminders/
 layout: post
 title:  "Send payment reminders for unpaid invoices automatically"
 category: [Payments]

@@ -1,4 +1,5 @@
 ---
+redirect_to: https://help.invoicefalcon.com/when-invoices-are-created/
 layout: post
 title:  "Create an Invoice for your Shopify Order"
 category: [Create invoices]
